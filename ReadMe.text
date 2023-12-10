@@ -1,0 +1,14 @@
+This repository has the links for all the notebooks used in this project.
+
+Aim - 
+1. To Clean the data, perform basic analysis and visualize the cleaned data.
+2. Use regression models to forecast the data. The models used -
+  a. Linear Regression
+  b. ARMA
+  c. ARIMA
+  d. SARIMA
+3. Use Deep Learning models to forecast the data. The models used -
+  a. LSTM
+  b. BiLSTM
+  c. GRU
+4. Compare Models and reach a conclusion
